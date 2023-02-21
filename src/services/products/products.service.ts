@@ -11,7 +11,7 @@ export class ProductsService {
       name: 'Iphone X',
       description: 'Mobile phone',
       price: 1199,
-      image: '',
+      image: 'www.google.com',
       stock: 25,
     },
   ];
